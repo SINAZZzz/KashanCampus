@@ -1,21 +1,25 @@
 ---
 layout: network
-permalink: /profile/{put your github username}/
-name: {put your name}
-family: {put your family name}
-github: {put your github username}
-gitlab: {put your gitlab username}
-website: {put your website}
-linkedin: {put your linkedin}
+permalink: /profile/SINAZZzz/
+name: Sina
+family: zinsaz
+github: https://github.com/SINAZZzz
+gitlab: https://gitlab.com/sinazinsaz1
+linkedin: https://www.linkedin.com/in/sina-zinsaz-a71061244/
+Stackoverflow: https://stackoverflow.com/users/20870363/sina-zinsaz
+telegram: https://t.me/SINAFAQ
+<!--
 twitter: {put your twitter}
-telegram: {put your telegram}
 whatsapp: {put your whatsapp}
+website: {put your website}
 mobile: +98
-email: {put your email}
+-->
+email: sinazinsaz1@gmail.com
 country: ایران
 city: کاشان
-role: فول استک
-languages: c php js css3 html5
+role: Front-End Developer
+languages: Js , Ts 
+<!--
 experiences:
   - company_name: شرکت اول
     role: برنامه نویس بک اند
@@ -27,16 +31,20 @@ experiences:
     description: توضیح پروژه ها و فعالیت
     link: https://github.com/?2
     tags: graphql php c c++ typescript javascript css html
+    -->
 projects:
-  - name: پروژه اول
-    description: توضیح پروژه
-    link: https://github.com/?1
-  - name: پروژه دوم
-    description: توضیح پروژه دوم
-    link: https://github.com/?2
-  - name: پروژه سوم
-    description: توضیح پروژه سوم
-    link: https://github.com/?3
+  - name: Coffee shop
+    description: وب سایت سفارش کافی شاپ انلاین
+    link: https://github.com/SINAZZzz/coffee-shop
+  - name: Dashboard
+    description: داشبورد مالی
+    link: https://github.com/SINAZZzz/Good-Work
+  - name: Blog
+    description: وبلاگ ساده
+    link: https://github.com/SINAZZzz/Blog
+ - name: Ts project
+    description: مجموعه پروژه با تایپ اسکریپت
+    link: https://github.com/SINAZZzz/project-ts
 ---
 
 محل نوشتن بیوگرافی و توضیحات بیشتر در مورد خودتان
