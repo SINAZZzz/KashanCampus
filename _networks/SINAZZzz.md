@@ -8,30 +8,15 @@ gitlab: https://gitlab.com/sinazinsaz1
 linkedin: https://www.linkedin.com/in/sina-zinsaz-a71061244/
 Stackoverflow: https://stackoverflow.com/users/20870363/sina-zinsaz
 telegram: https://t.me/SINAFAQ
-<!--
 twitter: {put your twitter}
 whatsapp: {put your whatsapp}
 website: {put your website}
 mobile: +98
--->
 email: sinazinsaz1@gmail.com
 country: ایران
 city: کاشان
 role: Front-End Developer
 languages: Js , Ts 
-<!--
-experiences:
-  - company_name: شرکت اول
-    role: برنامه نویس بک اند
-    description: توضیح پروژه ها و فعالیت
-    link: https://github.com/?1
-    tags: graphql php c c++ typescript javascript css html
-  - company_name: شرکت دوم
-    role: برنامه نویس بک اند
-    description: توضیح پروژه ها و فعالیت
-    link: https://github.com/?2
-    tags: graphql php c c++ typescript javascript css html
-    -->
 projects:
   - name: Coffee shop
     description: وب سایت سفارش کافی شاپ انلاین
